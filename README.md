@@ -12,6 +12,6 @@ Link to [Presentation Video](https://www.linkedin.com/posts/naveen-s6_codebasics
 <p align="center"><img src="mock up dashboard_atliq grands.png"></p>
 
 ## Final dashboard 
-<p align="center"><img src="mock up dashboard_atliq grands.png"></p>
+<p align="center"><img src="atliqdashboard.png"></p>
 
 
