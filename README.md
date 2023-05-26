@@ -8,4 +8,4 @@ Link to [Interactive Dashboard](https://www.novypro.com/project/-codebasics-sept
 
 Link to [Presentation Video](https://www.linkedin.com/posts/naveen-s6_codebasicsresumechallenge-codebasics-codebasicsresumechallenge-activity-6977486712180527105-17Hm)
 
-![Mockup]()
+![Mockup](PowerBi/atliqdashboard.png)
