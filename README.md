@@ -19,6 +19,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Mockup dashboard 
 <p align="center"><img src="mock up dashboard_atliq grands.png"></p>
 
+## Data Model created:
+<p align="center"><img src="datamodel.png"></p>
+
 ## Final dashboard 
 <p align="center"><img src="atliqdashboard.png"></p>
 
