@@ -1,6 +1,5 @@
 # AtliQ Hospitality Analysis - PowerBI
-
-As part of the codebasics september month resume challenge, I have worked on this analysis project.
+After completeing Codebasics Power BI module, I have created this dashboard to test my learnings and enhance my  Domain knowledge.
 
 ### Problem statement
 
