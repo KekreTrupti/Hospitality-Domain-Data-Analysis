@@ -32,10 +32,10 @@ You are a data analyst who has been provided with sample data and a mock-up dash
   <li>Data Cleaning in Power Query Editor</li>
   <li>Creating DAX Calculated Columns</li>
   <li>Creating various measures essential for visual creation</li>
-  <li>Using Microsoft Power BI effectively to create differnt types of visuals</li>
+  <li>Using Microsoft Power BI effectively to create different types of visuals</li>
   <li>How the filters work across different visuals and how to edit interactions with visuals</li>
-  <li>Got hands on about how to play with differnt settings in each of the visuals</li>
-  <li>Creating Toggle Button betwwen 2 differnt forms of the same visual</li>
+  <li>Got hands on about how to play with different settings in each of the visuals</li>
+  <li>Creating Toggle Button betwwen 2 different forms of the same visual</li>
 </ol>
 
 ###### Hospitality Domain Knowledge:
@@ -48,7 +48,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ###### Insights from the dashboard:
 <ol>
   <li>Looking at weekday and weekend comparion for key metrics, the RevPAR and ADR show no major difference. This shows that differential pricing strategy       is not being considered.</li>
-  <li> Booking by Platform analysis and DRR % Trend show that direct booking channels of the hotels are attracting comparitively low bookings</li>
+  <li> Booking by Platform analysis and DRR % Trend show that direct booking channels of the hotels are attracting comparatively low bookings</li>
   <li>When compared by City, Mumbai is generating the highest revenue whereas Hydrabad is generating the lowest revenue.</li>
   <li>Atliq Exotica is generating the highest revenue whereas Atliq Grand is generating the lowest revenue</li>
   <li>Realisation % for both Tripster and Makeyourtrip Platforms are low compared to others</li>
